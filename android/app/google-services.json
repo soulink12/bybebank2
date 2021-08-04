@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1065925174587",
+    "firebase_url": "https://botteste-bkim-default-rtdb.firebaseio.com",
+    "project_id": "botteste-bkim",
+    "storage_bucket": "botteste-bkim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065925174587:android:799e91c24af0bef658831e",
+        "android_client_info": {
+          "package_name": "br.com.alura.bybebank2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065925174587-hq0d74678ic19j7k93rotfmdhl0famcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTm0ZdXMPHI0FF_hVb50cwBDbvE87wb1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065925174587-hq0d74678ic19j7k93rotfmdhl0famcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1065925174587-10422rmgve3eefe881etk8kdbhvevf62.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.alura.bybebank2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
